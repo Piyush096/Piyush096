@@ -7,7 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush096&label=Profile%20views&color=0e75b6&style=flat" alt="piyush096" /> </p>
 
-<p align="left"> <a href="https://twitter.com/piyushm10672614" target="blank"><img src="https://img.shields.io/twitter/follow/piyushm10672614?logo=twitter&style=for-the-badge" alt="piyushm10672614" /></a> </p>
+<p align="left"><a href="https://twitter.com/piyushm10672614" target="blank"><img src="https://img.shields.io/twitter/follow/piyushm10672614?logo=twitter&style=for-the-badge" alt="piyushm10672614" /></a> </p>
+<p align="left"><a href="https://linkedin.com/in/piyush-mishra081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-mishra081" height="30" width="40" />piyush-mishra081</a></p>
 
 - 🌱 I'm currently learning **React**
 
@@ -15,7 +16,7 @@
 
 - 📫 How to reach me **mishra.piyush1886@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YK7LqenXapLbveekl02iZ0lyL18HRgru/view?usp=sharing](https://drive.google.com/file/d/1YK7LqenXapLbveekl02iZ0lyL18HRgru/view?usp=sharing)
+- 📄 Know about me [https://drive.google.com/file/d/1YK7LqenXapLbveekl02iZ0lyL18HRgru/view?usp=sharing](https://drive.google.com/file/d/1YK7LqenXapLbveekl02iZ0lyL18HRgru/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
